@@ -9,6 +9,7 @@
     --font-family-title: 'Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif';
 }
 body {
+    color: #161616;
     font-family: var(--font-family-base);
 }
 a {
