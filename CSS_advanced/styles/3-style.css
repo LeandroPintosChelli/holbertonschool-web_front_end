@@ -1,0 +1,31 @@
+:root
+.color-primary {
+    color: #d73953;
+}
+.color-black {
+    color: #090909;
+}
+.color-white {
+    color: #ffffff;
+}
+.color-light-grey {
+    color: #f3f3f3;
+}
+.color-dark-grey {
+    color: #353535;
+}
+.text-color {
+    color: #000000;
+}
+.section-tagline {
+    color: #d73953;
+}
+.card-category {
+    color: #d73953;
+}
+body {
+    color: #000000;
+}
+a {
+    color: #000000;
+}
