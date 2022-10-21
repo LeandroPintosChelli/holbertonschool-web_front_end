@@ -16,7 +16,7 @@ html {
     --color-white: #ffffff;
     --color-light-grey: #f3f3f3;
     --color-dark-grey: #353535;
-    --text-color:var(--color-white);
+    --text-color: var(--color-white);
     --font-family-base: 'Open Sans', 'Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif';
     --font-family-title: 'Raleway', 'Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif';
     --font-size-small: 1.2rem;
@@ -48,6 +48,7 @@ html {
     --nav-item-link-hover: var(--color-primary);
     --section-tagline-margin: 0;
 }
+
 body {
     color: #161616;
     font-family: var(--font-family-base);
